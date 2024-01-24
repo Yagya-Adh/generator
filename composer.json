@@ -1,0 +1,13 @@
+{
+    "name": "yagya/otp",
+    "description": "Package use demo for php projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yagya\\Otp\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
