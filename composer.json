@@ -5,9 +5,15 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Yagya\\Otp\\": "src/"
+            "Yagya\\Generator\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "yagya",
+            "email": "yagyaadhikari02@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {}
 }
