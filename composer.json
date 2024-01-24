@@ -1,0 +1,19 @@
+{
+    "name": "yagya/otp",
+    "description": "Package use demo for php projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yagya\\Generator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yagya",
+            "email": "yagyaadhikari02@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
